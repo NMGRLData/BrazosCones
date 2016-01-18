@@ -2,7 +2,7 @@
     "aliquot": 1, 
     "analysis_type": "unknown", 
     "collection_version": "0.1:0.1", 
-    "comment": "39.21 mg", 
+    "comment": "40.01 mg", 
     "commit": "a8c2af6c8457fcd1d6947930b4f67826a0776876", 
     "detectors": {
         "AX": {
@@ -31,11 +31,11 @@
         }
     }, 
     "extraction": "", 
-    "identifier": "63854", 
-    "increment": null, 
+    "identifier": "63853", 
+    "increment": 0, 
     "irradiation": "NM-278", 
     "irradiation_level": "A", 
-    "irradiation_position": 4, 
+    "irradiation_position": 3, 
     "isotopes": {
         "Ar36": {
             "classification": null, 
@@ -74,9 +74,9 @@
     "project": "BrazosCones", 
     "queue_conditionals_name": "", 
     "repository_identifier": "BrazosCones", 
-    "sample": "NMBC-02", 
+    "sample": "NMBC-01", 
     "spec_sha": "7e844deec9697c69c2864e6c8b0d64196a4a1f05", 
-    "timestamp": "2015-10-27T01:25:39", 
+    "timestamp": "2015-10-26T21:43:12", 
     "username": "root", 
-    "uuid": "2232f516-4e55-46d6-af84-683ae451c654"
+    "uuid": "94bc02c0-fca9-4d57-95fc-ca1234ede37a"
 }
